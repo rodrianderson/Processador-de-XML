@@ -20,7 +20,7 @@ Clonar repositório ```git clone git@github.com:rodrianderson/Processador-de-XML
 ### Backend
 
 - Abra a pasta ```Processador-de-XML/java11-spring-boot/``` import em sua IDEA de preferencia como (Project Maven).
-- Execute ```mvn spring-boot:run``` para iniciar o servidor backend ```localhost:8080\```.
+- Execute ```mvn spring-boot:run``` para iniciar o servidor backend ou se preferir execute o Application```localhost:8080\```.
 
 ### Frontend
 
