@@ -1,4 +1,4 @@
-<h1 align="center">Monprospecteur Challenge</h1>
+<h1 align="center">Desafio da CCEE - Anderson Rodrigues</h1>
 
 <p align="center">
   <a href="https://code.angularjs.org/1.7.9/docs/api"><img src="https://img.shields.io/badge/AngularJS-v1.7.9-red"></a>
@@ -8,31 +8,32 @@
 </p>
 
 ## :computer: Projeto
-Projeto tem objetivo de comprir o desafio da Monsprospecteur.
+Projeto tem objetivo de comprir o desafio da CCEE.
 
 ## :wrench: Recursos Utilizados
-- MongoDB
-- Express
-- AngularJS
-- NodeJS :V8.12.0
-- Gulp.js
-- Template AdminLTE
+
+- Angular 14
+- Angular Material 14
+- Typescript 4
+- RxJS 7
+- Java 11
+- Spring Boot 2
+- Maven 4
 
 ## :floppy_disk: Instalação
 
-Clonar repositório ```git clone https://github.com/rodrianderson/monprospecteurChallenge.git```
+Clonar repositório ```git clone git@github.com:rodrianderson/Processador-de-XML.git```
 
 ### Backend
 
-- Abra a pasta ```monprospecteurChallenge/backend``` no prompt de comando do Windows.
-- Execute ```npm install``` para instalar os módulos necessários do NodeJs.
-- Execute ```npm run dev``` para iniciar o servidor backend ```localhost:3003\```.
+- Abra a pasta ```Processador-de-XML/java11-spring-boot/``` import em sua IDEA de preferencia como (Project Maven).
+- Execute ```mvn spring-boot:run``` para iniciar o servidor backend ```localhost:8080\```.
 
 ### Frontend
 
-- Abra a pasta ```monprospecteurChallenge/angular1``` no prompt de comando do Windows.
-- Execute ```npm install``` para instalar os módulos necessários do Gulp.
-- Execute ```npm run dev``` para iniciar o servidor frontend. ```localhost:4000\```.
+- Abra a pasta ```Processador-de-XML/angular14-spring-boot/``` no prompt de comando do Windows.
+- Execute ```npm install``` para instalar os módulos necessários.
+- Execute ```ng serve --port 8081``` para iniciar o servidor frontend. ```localhost:8081\```.
 
 ## Author
 :computer: [Anderson Rodrigues](https://github.com/rodrianderson)
