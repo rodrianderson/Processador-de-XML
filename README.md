@@ -28,12 +28,9 @@ Clonar repositório ```git clone git@github.com:rodrianderson/Processador-de-XML
 - Execute ```npm install``` para instalar os módulos necessários.
 - Execute ```ng serve --port 8081``` para iniciar o servidor frontend. ```localhost:8081\```.
 
-## Author
-:computer: [Anderson Rodrigues](https://github.com/rodrianderson)
-
 ## Print da tela principal
 
 ![image](https://user-images.githubusercontent.com/7784973/198196649-84f1e952-4ec1-407c-b4fe-7d65c3f5115e.png)
 
-
-
+## Author
+:computer: [Anderson Rodrigues](https://github.com/rodrianderson)
