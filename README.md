@@ -1,7 +1,7 @@
 <h1 align="center">Desafio da CCEE - Anderson Rodrigues</h1>
 
 ## :computer: Projeto
-Projeto tem objetivo de comprir o desafio da CCEE.
+Projeto tem objetivo de cumprir o desafio da CCEE.
 
 ## :wrench: Recursos Utilizados
 
